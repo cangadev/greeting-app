@@ -5,7 +5,7 @@ Get user timezone; <br>
 Send greetings according to the user's time zone; <br>
 Change greeting message dynamically; <br>
 -good morning; <br>
--good afternoon; <br>
+-good afternoon; <br> 
 -goodnight; <br>
 Show image linked to user time zone; <br>
 Change images according to time zone dynamically; <br>

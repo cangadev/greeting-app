@@ -12,7 +12,7 @@ Change images according to time zone dynamically; <br>
 allow the user to change the time zone manually; <br> <br>
 
 So, did you like Greeting_App?; <br> 
-Leave a star and follow me.<br><br><br>
+Leave a star and follow me.<br><br><br> 
 
 portuguese/ Portugues<br>
 Aplicação de saudação feita com javaScript puro. <br>

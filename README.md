@@ -9,7 +9,7 @@ Change greeting message dynamically; <br>
 -goodnight; <br>
 Show image linked to user time zone; <br>
 Change images according to time zone dynamically; <br>
-allow the user to change the time zone manually; <br> <br>
+allow the user to change the time zone manually; <br> <br> 
 
 So, did you like Greeting_App?; <br> 
 Leave a star and follow me.<br><br><br> 

@@ -2,7 +2,7 @@
 Greeting application made with pure JavaScript. <br>
 Functionalities: <br> 
 Get user timezone; <br>
-Send greetings according to the user's time zone; <br>
+Send greetings according to the user's time zone; <br> 
 Change greeting message dynamically; <br>
 -good morning; <br>
 -good afternoon; <br> 
